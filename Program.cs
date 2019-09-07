@@ -57,7 +57,8 @@ namespace Questao2 {
                         }
                         else 
                         {
-                            if(coluna == 0) {
+                            if(coluna == 0) 
+                            {
                                 // Variavel contador recebendo o ultimo valor da contagem dos números.
                                 contador = (3 * tamanho) - tamNome;
                                 // Imprimindo o valor antes do nome.
